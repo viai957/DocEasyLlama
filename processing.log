@@ -1,0 +1,623 @@
+2024-09-22 16:53:48,100 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid "HTTP/1.1 200 OK"
+2024-09-22 16:53:48,101 - INFO - Collection 'test-v11-hybrid' created successfully with dense and sparse vectors.
+2024-09-22 16:53:48,134 - ERROR - Error processing file ./razorpay-python\.editorconfig: Unknown file type: ./razorpay-python\.editorconfig
+2024-09-22 16:53:48,861 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:53:48,862 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:53:48,863 - INFO - Successfully processed file: ./razorpay-python\CHANGELOG.md
+2024-09-22 16:53:48,864 - ERROR - Error processing file ./razorpay-python\LICENSE: Unknown file type: ./razorpay-python\LICENSE
+2024-09-22 16:53:48,986 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:53:48,987 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:53:48,987 - INFO - Successfully processed file: ./razorpay-python\MANIFEST.in
+2024-09-22 16:53:49,706 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:53:49,707 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:53:49,707 - INFO - Successfully processed file: ./razorpay-python\README.md
+2024-09-22 16:53:50,170 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:53:50,171 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:53:50,171 - INFO - Successfully processed file: ./razorpay-python\setup.py
+2024-09-22 16:53:50,905 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:53:50,906 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:53:50,906 - INFO - Successfully processed file: ./razorpay-python\documents\account.md
+2024-09-22 16:53:51,633 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:53:51,634 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:53:51,635 - INFO - Successfully processed file: ./razorpay-python\documents\addon.md
+2024-09-22 16:53:52,378 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:53:52,379 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:53:52,379 - INFO - Successfully processed file: ./razorpay-python\documents\card.md
+2024-09-22 16:53:53,120 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:53:53,121 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:53:53,122 - INFO - Successfully processed file: ./razorpay-python\documents\customer.md
+2024-09-22 16:53:53,872 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:53:53,873 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:53:53,874 - INFO - Successfully processed file: ./razorpay-python\documents\dispute.md
+2024-09-22 16:53:54,616 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:53:54,616 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:53:54,616 - INFO - Successfully processed file: ./razorpay-python\documents\document.md
+2024-09-22 16:53:55,359 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:53:55,361 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:53:55,361 - INFO - Successfully processed file: ./razorpay-python\documents\emandate.md
+2024-09-22 16:53:56,103 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:53:56,104 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:53:56,105 - INFO - Successfully processed file: ./razorpay-python\documents\fund.md
+2024-09-22 16:53:56,842 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:53:56,843 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:53:56,844 - INFO - Successfully processed file: ./razorpay-python\documents\iin.md
+2024-09-22 16:53:57,584 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:53:57,586 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:53:57,586 - INFO - Successfully processed file: ./razorpay-python\documents\invoice.md
+2024-09-22 16:53:58,350 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:53:58,351 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:53:58,352 - INFO - Successfully processed file: ./razorpay-python\documents\items.md
+2024-09-22 16:53:59,104 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:53:59,105 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:53:59,105 - INFO - Successfully processed file: ./razorpay-python\documents\order.md
+2024-09-22 16:53:59,868 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:53:59,869 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:53:59,869 - INFO - Successfully processed file: ./razorpay-python\documents\papernach.md
+2024-09-22 16:54:00,626 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:00,628 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:00,628 - INFO - Successfully processed file: ./razorpay-python\documents\payment.md
+2024-09-22 16:54:01,396 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:01,397 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:01,397 - INFO - Successfully processed file: ./razorpay-python\documents\paymentLink.md
+2024-09-22 16:54:02,138 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:02,139 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:02,139 - INFO - Successfully processed file: ./razorpay-python\documents\paymentVerfication.md
+2024-09-22 16:54:02,899 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:02,900 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:02,901 - INFO - Successfully processed file: ./razorpay-python\documents\plans.md
+2024-09-22 16:54:03,668 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:03,669 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:03,669 - INFO - Successfully processed file: ./razorpay-python\documents\productConfiguration.md
+2024-09-22 16:54:04,431 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:04,432 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:04,432 - INFO - Successfully processed file: ./razorpay-python\documents\qrcode.md
+2024-09-22 16:54:05,186 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:05,187 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:05,188 - INFO - Successfully processed file: ./razorpay-python\documents\refund.md
+2024-09-22 16:54:05,953 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:05,954 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:05,954 - INFO - Successfully processed file: ./razorpay-python\documents\registerEmandate.md
+2024-09-22 16:54:06,741 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:06,742 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:06,742 - INFO - Successfully processed file: ./razorpay-python\documents\registerNach.md
+2024-09-22 16:54:07,501 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:07,502 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:07,502 - INFO - Successfully processed file: ./razorpay-python\documents\settlement.md
+2024-09-22 16:54:08,275 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:08,276 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:08,277 - INFO - Successfully processed file: ./razorpay-python\documents\stakeholder.md
+2024-09-22 16:54:09,143 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:09,144 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:09,145 - INFO - Successfully processed file: ./razorpay-python\documents\subscription.md
+2024-09-22 16:54:09,906 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:09,907 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:09,908 - INFO - Successfully processed file: ./razorpay-python\documents\token.md
+2024-09-22 16:54:10,674 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:10,675 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:10,675 - INFO - Successfully processed file: ./razorpay-python\documents\transfer.md
+2024-09-22 16:54:11,437 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:11,438 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:11,439 - INFO - Successfully processed file: ./razorpay-python\documents\upi.md
+2024-09-22 16:54:12,243 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:12,244 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:12,244 - INFO - Successfully processed file: ./razorpay-python\documents\virtualAccount.md
+2024-09-22 16:54:13,000 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:13,001 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:13,002 - INFO - Successfully processed file: ./razorpay-python\documents\webhook.md
+2024-09-22 16:54:13,002 - ERROR - Error processing file ./razorpay-python\razorpay\ca-bundle.crt: Unknown file type: application/x-x509-ca-cert
+2024-09-22 16:54:13,778 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:13,779 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:13,779 - INFO - Successfully processed file: ./razorpay-python\razorpay\client.py
+2024-09-22 16:54:14,102 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:14,103 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:14,103 - INFO - Successfully processed file: ./razorpay-python\razorpay\errors.py
+2024-09-22 16:54:14,543 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:14,545 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:14,546 - INFO - Successfully processed file: ./razorpay-python\razorpay\__init__.py
+2024-09-22 16:54:14,628 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:14,629 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:14,629 - INFO - Successfully processed file: ./razorpay-python\razorpay\constants\error_code.py
+2024-09-22 16:54:14,691 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:14,692 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:14,693 - INFO - Successfully processed file: ./razorpay-python\razorpay\constants\http_status_code.py
+2024-09-22 16:54:15,095 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:15,096 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:15,096 - INFO - Successfully processed file: ./razorpay-python\razorpay\constants\url.py
+2024-09-22 16:54:15,205 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:15,205 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:15,206 - INFO - Successfully processed file: ./razorpay-python\razorpay\constants\__init__.py
+2024-09-22 16:54:15,979 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:15,980 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:15,980 - INFO - Successfully processed file: ./razorpay-python\razorpay\resources\account.py
+2024-09-22 16:54:16,420 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:16,421 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:16,421 - INFO - Successfully processed file: ./razorpay-python\razorpay\resources\addon.py
+2024-09-22 16:54:17,009 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:17,009 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:17,009 - INFO - Successfully processed file: ./razorpay-python\razorpay\resources\base.py
+2024-09-22 16:54:17,362 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:17,363 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:17,363 - INFO - Successfully processed file: ./razorpay-python\razorpay\resources\card.py
+2024-09-22 16:54:18,142 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:18,143 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:18,144 - INFO - Successfully processed file: ./razorpay-python\razorpay\resources\customer.py
+2024-09-22 16:54:18,627 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:18,628 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:18,628 - INFO - Successfully processed file: ./razorpay-python\razorpay\resources\dispute.py
+2024-09-22 16:54:18,892 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:18,893 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:18,893 - INFO - Successfully processed file: ./razorpay-python\razorpay\resources\document.py
+2024-09-22 16:54:19,252 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:19,253 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:19,254 - INFO - Successfully processed file: ./razorpay-python\razorpay\resources\fund_account.py
+2024-09-22 16:54:19,580 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:19,581 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:19,582 - INFO - Successfully processed file: ./razorpay-python\razorpay\resources\iin.py
+2024-09-22 16:54:20,345 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:20,346 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:20,346 - INFO - Successfully processed file: ./razorpay-python\razorpay\resources\invoice.py
+2024-09-22 16:54:20,996 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:20,996 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:20,998 - INFO - Successfully processed file: ./razorpay-python\razorpay\resources\item.py
+2024-09-22 16:54:21,766 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:21,766 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:21,767 - INFO - Successfully processed file: ./razorpay-python\razorpay\resources\order.py
+2024-09-22 16:54:22,523 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:22,525 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:22,525 - INFO - Successfully processed file: ./razorpay-python\razorpay\resources\payment.py
+2024-09-22 16:54:23,262 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:23,264 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:23,264 - INFO - Successfully processed file: ./razorpay-python\razorpay\resources\payment_link.py
+2024-09-22 16:54:23,665 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:23,667 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:23,667 - INFO - Successfully processed file: ./razorpay-python\razorpay\resources\plan.py
+2024-09-22 16:54:24,387 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:24,387 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:24,388 - INFO - Successfully processed file: ./razorpay-python\razorpay\resources\product.py
+2024-09-22 16:54:25,094 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:25,095 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:25,095 - INFO - Successfully processed file: ./razorpay-python\razorpay\resources\qrcode.py
+2024-09-22 16:54:25,761 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:25,763 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:25,763 - INFO - Successfully processed file: ./razorpay-python\razorpay\resources\refund.py
+2024-09-22 16:54:26,134 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:26,135 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:26,136 - INFO - Successfully processed file: ./razorpay-python\razorpay\resources\registration_link.py
+2024-09-22 16:54:26,989 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:26,989 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:26,991 - INFO - Successfully processed file: ./razorpay-python\razorpay\resources\settlement.py
+2024-09-22 16:54:27,861 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:27,862 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:27,862 - INFO - Successfully processed file: ./razorpay-python\razorpay\resources\stakeholder.py
+2024-09-22 16:54:28,767 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:28,768 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:28,768 - INFO - Successfully processed file: ./razorpay-python\razorpay\resources\subscription.py
+2024-09-22 16:54:29,638 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:29,640 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:29,640 - INFO - Successfully processed file: ./razorpay-python\razorpay\resources\token.py
+2024-09-22 16:54:30,511 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:30,512 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:30,513 - INFO - Successfully processed file: ./razorpay-python\razorpay\resources\transfer.py
+2024-09-22 16:54:31,369 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:31,370 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:31,370 - INFO - Successfully processed file: ./razorpay-python\razorpay\resources\virtual_account.py
+2024-09-22 16:54:32,215 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:32,217 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:32,217 - INFO - Successfully processed file: ./razorpay-python\razorpay\resources\webhook.py
+2024-09-22 16:54:32,668 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:32,670 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:32,670 - INFO - Successfully processed file: ./razorpay-python\razorpay\resources\__init__.py
+2024-09-22 16:54:33,537 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:33,539 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:33,539 - INFO - Successfully processed file: ./razorpay-python\razorpay\utility\utility.py
+2024-09-22 16:54:33,610 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:33,611 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:33,612 - INFO - Successfully processed file: ./razorpay-python\razorpay\utility\__init__.py
+2024-09-22 16:54:34,234 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:34,236 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:34,237 - INFO - Successfully processed file: ./razorpay-python\tests\helpers.py
+2024-09-22 16:54:35,081 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:35,082 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:35,082 - INFO - Successfully processed file: ./razorpay-python\tests\test_client_account.py
+2024-09-22 16:54:35,759 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:35,760 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:35,760 - INFO - Successfully processed file: ./razorpay-python\tests\test_client_addon.py
+2024-09-22 16:54:36,385 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:36,386 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:36,386 - INFO - Successfully processed file: ./razorpay-python\tests\test_client_card.py
+2024-09-22 16:54:37,294 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:37,296 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:37,296 - INFO - Successfully processed file: ./razorpay-python\tests\test_client_customer.py
+2024-09-22 16:54:38,211 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:38,212 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:38,212 - INFO - Successfully processed file: ./razorpay-python\tests\test_client_dispute.py
+2024-09-22 16:54:38,702 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:38,704 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:38,704 - INFO - Successfully processed file: ./razorpay-python\tests\test_client_document.py
+2024-09-22 16:54:39,658 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:39,659 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:39,660 - INFO - Successfully processed file: ./razorpay-python\tests\test_client_error.py
+2024-09-22 16:54:40,246 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:40,247 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:40,247 - INFO - Successfully processed file: ./razorpay-python\tests\test_client_fund_account.py
+2024-09-22 16:54:40,783 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:40,784 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:40,785 - INFO - Successfully processed file: ./razorpay-python\tests\test_client_iin.py
+2024-09-22 16:54:41,711 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:41,713 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:41,715 - INFO - Successfully processed file: ./razorpay-python\tests\test_client_invoice.py
+2024-09-22 16:54:42,557 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:42,558 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:42,559 - INFO - Successfully processed file: ./razorpay-python\tests\test_client_item.py
+2024-09-22 16:54:43,499 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:43,500 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:43,501 - INFO - Successfully processed file: ./razorpay-python\tests\test_client_order.py
+2024-09-22 16:54:44,437 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:44,438 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:44,439 - INFO - Successfully processed file: ./razorpay-python\tests\test_client_payment.py
+2024-09-22 16:54:45,325 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:45,326 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:45,327 - INFO - Successfully processed file: ./razorpay-python\tests\test_client_payment_link.py
+2024-09-22 16:54:46,025 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:46,026 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:46,027 - INFO - Successfully processed file: ./razorpay-python\tests\test_client_plan.py
+2024-09-22 16:54:46,936 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:46,937 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:46,937 - INFO - Successfully processed file: ./razorpay-python\tests\test_client_product.py
+2024-09-22 16:54:47,828 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:47,829 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:47,829 - INFO - Successfully processed file: ./razorpay-python\tests\test_client_qrcode.py
+2024-09-22 16:54:48,745 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:48,746 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:48,747 - INFO - Successfully processed file: ./razorpay-python\tests\test_client_refund.py
+2024-09-22 16:54:49,068 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:49,069 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:49,069 - INFO - Successfully processed file: ./razorpay-python\tests\test_client_registration_link.py
+2024-09-22 16:54:49,966 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:49,968 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:49,968 - INFO - Successfully processed file: ./razorpay-python\tests\test_client_settlement.py
+2024-09-22 16:54:50,897 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:50,898 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:50,898 - INFO - Successfully processed file: ./razorpay-python\tests\test_client_stakeholder.py
+2024-09-22 16:54:51,792 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:51,793 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:51,793 - INFO - Successfully processed file: ./razorpay-python\tests\test_client_subscription.py
+2024-09-22 16:54:52,686 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:52,688 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:52,688 - INFO - Successfully processed file: ./razorpay-python\tests\test_client_token.py
+2024-09-22 16:54:53,587 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:53,588 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:53,589 - INFO - Successfully processed file: ./razorpay-python\tests\test_client_transfer.py
+2024-09-22 16:54:54,486 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:54,487 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:54,487 - INFO - Successfully processed file: ./razorpay-python\tests\test_client_utility.py
+2024-09-22 16:54:55,376 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:55,377 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:55,378 - INFO - Successfully processed file: ./razorpay-python\tests\test_client_virtual_account.py
+2024-09-22 16:54:56,264 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:56,265 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:56,265 - INFO - Successfully processed file: ./razorpay-python\tests\test_client_webhook.py
+2024-09-22 16:54:56,926 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:56,927 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:56,928 - INFO - Successfully processed file: ./razorpay-python\tests\test_multiple_client.py
+2024-09-22 16:54:57,250 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:57,251 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:57,251 - INFO - Successfully processed file: ./razorpay-python\tests\test_user_agent.py
+2024-09-22 16:54:57,258 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 400 Bad Request"
+2024-09-22 16:54:57,260 - ERROR - Failed to add documents to collection 'test-v11-hybrid': Unexpected Response: 400 (Bad Request)
+Raw response content:
+b'{"status":{"error":"Bad request: Empty update request"},"time":0.000039709}'
+2024-09-22 16:54:57,260 - ERROR - Error processing file ./razorpay-python\tests\__init__.py: Unexpected Response: 400 (Bad Request)
+Raw response content:
+b'{"status":{"error":"Bad request: Empty update request"},"time":0.000039709}'
+2024-09-22 16:54:58,187 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:58,188 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:58,189 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\addon_collection.json
+2024-09-22 16:54:58,280 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:58,281 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:58,281 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\bad_request_error.json
+2024-09-22 16:54:58,443 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:58,444 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:58,445 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\bank_account.json
+2024-09-22 16:54:58,974 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:58,975 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:58,975 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\cancel_payment_link.json
+2024-09-22 16:54:59,230 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:59,231 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:59,231 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\customer_collection.json
+2024-09-22 16:54:59,511 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:59,511 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:59,513 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\dispute.json
+2024-09-22 16:54:59,930 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:54:59,931 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:54:59,932 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\dispute_accept.json
+2024-09-22 16:55:00,847 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:00,848 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:00,849 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\dispute_collection.json
+2024-09-22 16:55:01,417 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:01,418 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:01,418 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\dispute_contest.json
+2024-09-22 16:55:01,583 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:01,584 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:01,584 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\document.json
+2024-09-22 16:55:01,586 - ERROR - Error processing file ./razorpay-python\tests\mocks\edit_customer.json: Expecting property name enclosed in double quotes: line 3 column 1 (char 30)
+2024-09-22 16:55:01,844 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:01,845 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:01,845 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\edit_order.json
+2024-09-22 16:55:02,284 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:02,286 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:02,286 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\edit_payment.json
+2024-09-22 16:55:02,921 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:02,922 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:02,922 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\edit_payment_link.json
+2024-09-22 16:55:03,281 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:03,282 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:03,282 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\eligibility.json
+2024-09-22 16:55:03,502 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:03,504 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:03,504 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\eligibility_check.json
+2024-09-22 16:55:04,427 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:04,428 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:04,428 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_account.json
+2024-09-22 16:55:04,785 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:04,787 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:04,787 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_addon.json
+2024-09-22 16:55:04,857 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:04,859 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:04,859 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_app_details.json
+2024-09-22 16:55:05,002 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:05,003 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:05,004 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_bank_transfer.json
+2024-09-22 16:55:05,187 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:05,188 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:05,188 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_captured_payment.json
+2024-09-22 16:55:05,190 - ERROR - Error processing file ./razorpay-python\tests\mocks\fake_card.json: Expecting property name enclosed in double quotes: line 9 column 1 (char 154)
+2024-09-22 16:55:05,368 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:05,369 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:05,370 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_card_detail_payment.json
+2024-09-22 16:55:05,657 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:05,659 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:05,659 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_create_recurring.json
+2024-09-22 16:55:05,661 - ERROR - Error processing file ./razorpay-python\tests\mocks\fake_customer.json: Expecting property name enclosed in double quotes: line 8 column 1 (char 147)
+2024-09-22 16:55:05,722 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:05,723 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:05,723 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_delete_allowed_payer.json
+2024-09-22 16:55:05,984 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:05,986 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:05,987 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_iin.json
+2024-09-22 16:55:06,377 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:06,379 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:06,379 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_invoice.json
+2024-09-22 16:55:06,763 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:06,764 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:06,764 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_invoice_cancel.json
+2024-09-22 16:55:06,822 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:06,823 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:06,824 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_invoice_delete.json
+2024-09-22 16:55:06,826 - ERROR - Error processing file ./razorpay-python\tests\mocks\fake_invoice_edit.json: Expecting property name enclosed in double quotes: line 12 column 5 (char 334)
+2024-09-22 16:55:06,889 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:06,890 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:06,891 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_invoice_notify_by.json
+2024-09-22 16:55:07,021 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:07,023 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:07,023 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_item.json
+2024-09-22 16:55:07,485 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:07,487 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:07,487 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_merchant_token.json
+2024-09-22 16:55:07,640 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:07,642 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:07,642 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_order.json
+2024-09-22 16:55:08,054 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:08,055 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:08,055 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_otp_generate.json
+2024-09-22 16:55:08,160 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:08,162 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:08,162 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_otp_resend.json
+2024-09-22 16:55:08,340 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:08,341 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:08,341 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_otp_submit.json
+2024-09-22 16:55:08,520 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:08,521 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:08,522 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_payment.json
+2024-09-22 16:55:09,041 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:09,042 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:09,042 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_payment_authorized_webhook.json
+2024-09-22 16:55:09,684 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:09,685 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:09,686 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_payment_json.json
+2024-09-22 16:55:10,308 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:10,310 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:10,310 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_payment_link.json
+2024-09-22 16:55:10,650 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:10,652 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:10,653 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_plan.json
+2024-09-22 16:55:11,577 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:11,578 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:11,578 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_product.json
+2024-09-22 16:55:11,992 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:11,993 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:11,994 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_qrcode.json
+2024-09-22 16:55:11,995 - ERROR - Error processing file ./razorpay-python\tests\mocks\fake_reference_card.json: Expecting value: line 1 column 1 (char 0)
+2024-09-22 16:55:12,296 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:12,298 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:12,298 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_refund.json
+2024-09-22 16:55:13,166 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:13,168 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:13,168 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_registration_link.json
+2024-09-22 16:55:13,303 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:13,304 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:13,304 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_reversal.json
+2024-09-22 16:55:13,464 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:13,466 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:13,466 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_settlement.json
+2024-09-22 16:55:13,836 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:13,837 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:13,837 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_stakeholder.json
+2024-09-22 16:55:14,191 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:14,192 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:14,193 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_subscription.json
+2024-09-22 16:55:14,543 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:14,545 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:14,545 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_subscription_addon.json
+2024-09-22 16:55:14,849 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:14,851 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:14,851 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_subscription_cancelled.json
+2024-09-22 16:55:15,361 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:15,362 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:15,362 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_subscription_paused.json
+2024-09-22 16:55:15,879 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:15,880 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:15,881 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_subscription_resumed.json
+2024-09-22 16:55:15,882 - ERROR - Error processing file ./razorpay-python\tests\mocks\fake_token.json: Expecting ',' delimiter: line 10 column 10 (char 175)
+2024-09-22 16:55:16,130 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:16,131 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:16,132 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_transfer.json
+2024-09-22 16:55:16,284 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:16,285 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:16,285 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_upi_transfer.json
+2024-09-22 16:55:16,596 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:16,597 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:16,598 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_virtual_accounts.json
+2024-09-22 16:55:16,906 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:16,907 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:16,907 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_virtual_accounts_closed.json
+2024-09-22 16:55:17,404 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:17,405 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:17,405 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_virtual_accounts_receiver.json
+2024-09-22 16:55:17,754 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:17,755 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:17,755 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fake_webhook.json
+2024-09-22 16:55:17,919 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:17,920 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:17,921 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fulfillment.json
+2024-09-22 16:55:18,487 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:18,488 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:18,489 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\fund_account_collection.json
+2024-09-22 16:55:18,570 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:18,571 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:18,571 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\iin_collection.json
+2024-09-22 16:55:19,456 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:19,457 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:19,458 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\init_account.json
+2024-09-22 16:55:19,748 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:19,749 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:19,750 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\init_create_recurring.json
+2024-09-22 16:55:19,751 - ERROR - Error processing file ./razorpay-python\tests\mocks\init_customer.json: Expecting property name enclosed in double quotes: line 4 column 1 (char 48)
+2024-09-22 16:55:19,852 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:19,853 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:19,853 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\init_invoice.json
+2024-09-22 16:55:20,082 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:20,083 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:20,083 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\init_invoice_edit.json
+2024-09-22 16:55:20,158 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:20,160 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:20,160 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\init_order.json
+2024-09-22 16:55:20,498 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:20,499 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:20,499 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\init_payment_link.json
+2024-09-22 16:55:20,591 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:20,592 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:20,592 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\init_plan.json
+2024-09-22 16:55:21,047 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:21,048 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:21,048 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\init_registration_link.json
+2024-09-22 16:55:21,603 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:21,604 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:21,604 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\init_settlement.json
+2024-09-22 16:55:21,919 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:21,920 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:21,921 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\init_stakeholder.json
+2024-09-22 16:55:22,031 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:22,032 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:22,032 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\init_subscription.json
+2024-09-22 16:55:22,110 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:22,111 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:22,112 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\init_transfer.json
+2024-09-22 16:55:22,185 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:22,186 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:22,186 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\init_virtual_accounts.json
+2024-09-22 16:55:22,343 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:22,344 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:22,344 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\init_webhook.json
+2024-09-22 16:55:23,229 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:23,231 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:23,231 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\invoice_collection.json
+2024-09-22 16:55:23,658 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:23,659 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:23,660 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\invoice_collection_with_one_invoice.json
+2024-09-22 16:55:24,015 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:24,016 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:24,017 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\item_collection.json
+2024-09-22 16:55:24,308 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:24,310 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:24,310 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\order_collection.json
+2024-09-22 16:55:24,501 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:24,502 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:24,503 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\order_collection_with_one_order.json
+2024-09-22 16:55:24,891 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:24,892 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:24,893 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\payment_collection.json
+2024-09-22 16:55:25,121 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:25,122 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:25,123 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\payment_collection_with_one_payment.json
+2024-09-22 16:55:25,996 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:25,998 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:25,998 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\payment_link_collection.json
+2024-09-22 16:55:26,703 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:26,705 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:26,705 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\plan_collection.json
+2024-09-22 16:55:27,537 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:27,538 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:27,538 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\qrcode_collection.json
+2024-09-22 16:55:28,430 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:28,432 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:28,432 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\qrcode_payments_collection.json
+2024-09-22 16:55:28,707 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:28,708 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:28,709 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\refund_collection.json
+2024-09-22 16:55:28,879 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:28,880 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:28,880 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\reversal_collection.json
+2024-09-22 16:55:29,058 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:29,059 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:29,059 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\rto.json
+2024-09-22 16:55:29,540 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:29,542 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:29,542 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\settlement_collection.json
+2024-09-22 16:55:29,727 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:29,728 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:29,728 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\settlement_collection_with_one_settlement.json
+2024-09-22 16:55:30,115 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:30,117 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:30,117 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\stakeholder_collection.json
+2024-09-22 16:55:30,844 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:30,846 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:30,846 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\subscription_collection.json
+2024-09-22 16:55:30,848 - ERROR - Error processing file ./razorpay-python\tests\mocks\token_collection.json: Expecting ',' delimiter: line 14 column 12 (char 252)
+2024-09-22 16:55:30,848 - ERROR - Error processing file ./razorpay-python\tests\mocks\token_collection_with_one_token.json: Expecting ',' delimiter: line 14 column 12 (char 252)
+2024-09-22 16:55:31,400 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:31,402 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:31,403 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\transfers_collection.json
+2024-09-22 16:55:31,703 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:31,704 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:31,705 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\transfers_collection_with_payment_id.json
+2024-09-22 16:55:32,378 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:32,379 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:32,379 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\virtual_accounts_collection.json
+2024-09-22 16:55:32,701 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:32,702 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:32,702 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\virtual_accounts_collection_with_one_item.json
+2024-09-22 16:55:33,097 - INFO - HTTP Request: PUT http://localhost:6333/collections/test-v11-hybrid/points?wait=true "HTTP/1.1 200 OK"
+2024-09-22 16:55:33,098 - INFO - Successfully added 1 documents to collection 'test-v11-hybrid'.
+2024-09-22 16:55:33,098 - INFO - Successfully processed file: ./razorpay-python\tests\mocks\webhook_collection.json
+2024-09-22 16:55:33,271 - INFO - HTTP Request: POST http://localhost:6333/collections/test-v11-hybrid/points/search/batch "HTTP/1.1 200 OK"
+2024-09-22 16:55:33,281 - INFO - HTTP Request: POST http://localhost:6333/collections/test-v11-hybrid/points "HTTP/1.1 200 OK"
+2024-09-22 16:55:33,323 - INFO - HTTP Request: POST http://localhost:6333/collections/test-v11-hybrid/points "HTTP/1.1 200 OK"
+2024-09-22 16:55:33,333 - INFO - HTTP Request: POST http://localhost:6333/collections/test-v11-hybrid/points "HTTP/1.1 200 OK"
+2024-09-22 16:55:33,344 - INFO - HTTP Request: POST http://localhost:6333/collections/test-v11-hybrid/points "HTTP/1.1 200 OK"
+2024-09-22 16:55:33,353 - INFO - HTTP Request: POST http://localhost:6333/collections/test-v11-hybrid/points "HTTP/1.1 200 OK"
+2024-09-22 16:55:33,361 - INFO - HTTP Request: POST http://localhost:6333/collections/test-v11-hybrid/points "HTTP/1.1 200 OK"
+2024-09-22 16:55:33,371 - INFO - HTTP Request: POST http://localhost:6333/collections/test-v11-hybrid/points "HTTP/1.1 200 OK"
+2024-09-22 16:55:33,380 - INFO - HTTP Request: POST http://localhost:6333/collections/test-v11-hybrid/points "HTTP/1.1 200 OK"
+2024-09-22 16:55:33,394 - INFO - HTTP Request: POST http://localhost:6333/collections/test-v11-hybrid/points "HTTP/1.1 200 OK"
+2024-09-22 16:55:33,426 - INFO - HTTP Request: POST http://localhost:6333/collections/test-v11-hybrid/points "HTTP/1.1 200 OK"
